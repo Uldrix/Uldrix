@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <h1>Skills</h1>
+
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+
