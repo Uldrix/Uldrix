@@ -17,5 +17,11 @@ Here are some ideas to get you started:
 
 <h1>Skills</h1>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,c,cpp,cs,bash,blender,bootstrap,html,css,js,discord,dotnet,electron,jquery,kali,linux,mysql,nginx,nodejs,php,qt,unreal,unity,ubuntu,visualstudio,vscode,windows,npm" />
+  </a>
+</p>
+
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
