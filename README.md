@@ -23,11 +23,11 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<center>  
+<p align="center"> 
   
   ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
   
   ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white) 
-</center>
+</p>
 
 
