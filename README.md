@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 Over the years, I’ve explored and enjoyed other classics like the Amiga 500, Amstrad CPC, ZX Spectrum, and Macintosh.</p>
 
 <p>
-⚡My Early Adventures in Coding<br>
+⚡<b>My Early Adventures in Coding</b><br>
 I started coding on the Commodore 64 using BASIC and its proprietary assembly language. I even had an MK Replay cartridge that allowed me to hack games and the Commodore hardware, enabling infinite lives, unlimited ammo, and more!
 </p>
 
@@ -42,45 +42,47 @@ Later, I ventured into Turbo Pascal and C++, dabbling in game development. Altho
 </p>
 
 <p>
-⚡Broad Programming Experience<br>
+⚡<b>Broad Programming Experience</b><br>
 Over the years, I’ve acquired the ability to quickly learn new programming languages and frameworks. My experience includes:
 </p>
 <p>
 Languages: COBOL, WinDev, PowerBuilder, Visual Basic, Python, JavaScript, PHP, Node.js, and Electron.<br>
 Databases: Proficient in SQL, I’ve worked with Sybase and now primarily use MySQL/MariaDB for my projects.<br>
 CMS Platforms: Familiar with Joomla, WordPress, and PrestaShop.<br>
-Web: HTML, CSS, JS<br>
-Current Focus and Expertise<br>
+Web: HTML, CSS, JS</p>
+
+<p>
+⚡<b>Current Focus and Expertise</b><br>
 Today, I work across Linux, macOS, and Windows, with advanced skills in Linux administration. 
 </p>
 
 <p>
-⚡Networking<br>
+⚡<b>Networking</b>b><br>
 LAN, VLAN, SSH, FTP, SFTP, TCP/IP, UDP, OSI, SSL, WIFI, host, vhost, routers, switches, etc.
 </p>
 
 <p>
-⚡AI forever<br>
+⚡<b>AI forever</b><br>
 I’m an avid AI enthusiast, regularly using tools like ChatGPT, Claude, Perplexity, Copilot, and Gemini for productivity, along with image generation tools like DALL-E, Stable Diffusion, Flux, and ComfyUI (mostly running local instances).
 </p>
 
   <p>
-⚡Virtualization<br>
+⚡<b>Virtualization</b><br>
 I have practical experience with virtualization platforms, including VirtualBox, Parallels, VMware, and Proxmox, which I use for lab setups.
 </p>
 
 <p>
-⚡Interests in Robotics, VR, and Cybersecurity<br>
+⚡<b>Interests in Robotics, VR, and Cybersecurity</b><br>
 While I’m fascinated by robotics and virtual reality, my time is limited to dabbling in these areas.
 </p>
 
 <p>
-⚡Cyber<br>
+⚡<b>Cybersecurity</b><br>
 Cybersecurity, however, remains a passion. I’m comfortable with tools like Kali Linux, Whonix, Tor, HackTheBox (CTF), and dark web exploration. I’m currently developing an OSINT platform in Node.js and MySQL, which is in the alpha stage.
 </p>
 
 <p>
-⚡Gaming and Game Development<br>
+⚡<b>Gaming and Game Development</b><br>
 As a gamer, I enjoy World of Warcraft, Starfield, and Second Life. I also love creating games. My development journey includes:
 </p>
 
@@ -93,7 +95,7 @@ I can also deploy local instances of OpenSim, the open-source version of Second 
 </p>
 
 <p>
-⚡Future Goals<br>
+⚡<b>Future Goals</b><br>
 I’m planning to pursue academic qualifications in network security and cybersecurity through evening courses. I’m actively seeking a company that can offer me a position—such as system administration, DevOps, or SecOps—while I complete my studies.
 </p>
 
