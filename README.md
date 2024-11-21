@@ -72,8 +72,8 @@ I have practical experience with virtualization platforms, including VirtualBox,
 </p>
 
 <p>
-⚡<b>Interests in Robotics, VR, and Cybersecurity</b><br>
-While I’m fascinated by robotics and virtual reality, my time is limited to dabbling in these areas.
+⚡<b>Interests in Robotics</b><br>
+While I’m fascinated by robotics and virtual reality, my time is limited to dabbling in these areas. However i own a NAO robot v4.
 </p>
 
 <p>
