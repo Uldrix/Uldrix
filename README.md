@@ -34,7 +34,7 @@ When PCs entered the scene, my first machine was an 8086 running at 2 MHz, with 
 </p>
 
 <p>
-This is when I began learning C and x86 assembly language. I enjoyed replicating well-known system tools for fun and learning. One memorable project was coding a disk format utility entirely in x86 assembly using MS-DOS interrupts that i made start at the boot of the computer.
+This is when I began learning C and x86 assembly language. I enjoyed replicating well-known system tools for fun and learning. One fun project was coding a utility entirely in x86 assembly that stands in a memory segment and that i made start at the boot of the computer acting like an operation system.
 </p>
 
 <p>
