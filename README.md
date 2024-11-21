@@ -57,7 +57,7 @@ Today, I work across Linux, macOS, and Windows, with advanced skills in Linux ad
 </p>
 
 <p>
-⚡<b>Networking</b>b><br>
+⚡<b>Networking</b><br>
 LAN, VLAN, SSH, FTP, SFTP, TCP/IP, UDP, OSI, SSL, WIFI, host, vhost, routers, switches, etc.
 </p>
 
